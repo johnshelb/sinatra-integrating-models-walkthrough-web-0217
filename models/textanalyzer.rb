@@ -35,4 +35,3 @@ def most_used_letter
   end
 
 end
- 
